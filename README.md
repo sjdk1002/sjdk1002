@@ -23,6 +23,8 @@
 
 [모바일 앱 개발 포트폴리오](https://github.com/sjdk1002/mobile-development-portfolio)에 직접 맡았던 작업을 정리했습니다.
 
+실제 작업에서 다룬 문제를 공개용 독립 예제로 다시 구현한 [Swift/UIKit 코드](https://github.com/sjdk1002/mobile-development-portfolio/tree/main/examples/swift)와 [React/TypeScript 코드](https://github.com/sjdk1002/mobile-development-portfolio/tree/main/examples/react)도 함께 볼 수 있습니다.
+
 - [iOS 화면 종료와 SDK 참조 정리](https://github.com/sjdk1002/mobile-development-portfolio/blob/main/cases/ios-lifecycle.md)
 - [채팅 중복 수신과 앱 시작 중 알림 진입](https://github.com/sjdk1002/mobile-development-portfolio/blob/main/cases/chat-and-notification.md)
 - [React와 iOS·Android를 연결한 파일 공유](https://github.com/sjdk1002/mobile-development-portfolio/blob/main/cases/capacitor-file-sharing.md)
